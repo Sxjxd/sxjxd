@@ -60,14 +60,18 @@ I am a technology strategist, enterprise systems architect, and software enginee
 
 ---
 
-## 💼 Venture Impact at IKIZEN
+## 💼 Professional Ventures & Leadership
 
-At **IKIZEN**, I lead full-scale digital transformation initiatives, bridging the gap between core software engineering and brand establishment:
-*   **E-Commerce Engineering:** Built multiple storefronts for businesses, converting fragmented manual processes into unified, high-conversion digital sales engines.
-*   **Brand Amplification & Visibility:** Helping businesses establish their digital authority by pairing robust platforms with prominent, content-driven social media management.
-*   **Dual-Engine Growth Optimization:** Engineering modern discoverability stacks by targeting the complete search landscape:
-    *   **SEO (Search Engine Optimization):** Enhancing visibility on traditional search platforms (Google, Bing) to continuously boost organic page rankings and drive high-volume website traffic.
-    *   **GEO (Generative Engine Optimization):** Optimizing content architectures specifically for AI-driven platforms, ensuring business assets are accurately synthesized and referenced directly within LLM and generative AI responses.
+#### ⚡ Founder & CTO at **[IKIZEN](https://www.ikizen.io)**
+*   **Digital Transformation:** Leading full-scale initiatives converting fragmented manual operational workflows into automated digital architectures.
+*   **E-Commerce & Branding:** Building robust, high-conversion online storefronts for businesses and implementing content-driven social media management to establish market authority.
+*   **Dual-Engine Growth Optimization:** Designing modern discoverability strategies that balance traditional **SEO** (boosting search rankings on Google/Bing) with **GEO** (Generative Engine Optimization) to ensure business assets are accurately synthesized inside AI-driven LLM responses.
+
+#### 🚲 Director at **[CYKEL](https://www.cykel.lk)**
+*   Overseeing general technical operations, digital platforms, and strategic development.
+
+#### 🛡️ Senior IT Executive at **[TecRoot](https://www.tecroot.lk)**
+*   Managing internal IT systems, engineering enterprise solutions, and updating core web infrastructure.
 
 ---
 
@@ -83,9 +87,9 @@ At **IKIZEN**, I lead full-scale digital transformation initiatives, bridging th
 *   **The Mission:** Designing and engineering a unified dashboard for clients to streamline project onboarding, track deliverables, view system analytics, and manage support channels seamlessly.
 *   **Core Architecture:** Implemented via a high-performance Next.js frontend integrated with an automated backend service layer to automate operational workflows.
 
-#### ⚙️ RMS — Repair Management System
-*   **The Mission:** Developing an advanced enterprise platform engineered to optimize commercial equipment tracking, client ticketing, asset log cycles, and service diagnostic processes.
-*   **Core Architecture:** Built to completely automate status progression timelines, improve operational transparency, and eliminate manual organization gaps.
+#### ⚙️ RMS — Repair Management System *(via TecRoot)*
+*   **The Mission:** Building an advanced internal tracking platform engineered to optimize commercial service lifecycles, log diagnostic assets, and eliminate manual organization gaps.
+*   **Core Architecture:** Structured to completely automate status progression timelines and scale operational visibility.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sxjxd&theme=tokyonight&hide_border=true&sideNums=BB9AF7" alt="Contribution Streak" width="100%" />

@@ -5,7 +5,7 @@
 
 <p align="center">
   <samp>
-    <strong>🚀 <a href="https://www.ikizen.io">IKIZEN</a></strong> • <strong>🚲 CYKEL</strong> • <strong>🛡️ TecRoot</strong>
+    <strong>🚀 <a href="https://www.ikizen.io">IKIZEN</a></strong> • <strong>🚲 <a href="https://www.cykel.lk">CYKEL</strong> • <strong>🛡️ <a href="https://www.tecroot.lk">TecRoot</strong>
   </samp>
 </p>
 

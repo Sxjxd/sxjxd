@@ -5,13 +5,13 @@
 
 <p align="center">
   <samp>
-    <strong>🚀 <a href="https://www.ikizen.io">IKIZEN</a></strong> • <strong>🚲 <a href="https://www.cykel.lk">CYKEL</strong> • <strong>🛡️ <a href="https://www.tecroot.lk">TecRoot</strong>
+    <strong>🚀 <a href="https://www.ikizen.io">IKIZEN</a></strong> • <strong>🚲 <a href="https://www.cykel.lk">CYKEL</a></strong> • <strong>🛡️ <a href="https://www.tecroot.lk">TecRoot</a></strong>
   </samp>
 </p>
 
 <!-- REAL-TIME VISITOR COUNTER -->
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=BB9AF7&label=Profile%20Views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsxjxd%2Fgithub-profile&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sxjxd&label=Profile%20Views&color=BB9AF7&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -20,76 +20,45 @@
 
 ## ⚡ Executive Summary
 
-I am a technology strategist, enterprise systems architect, and software engineer focused on driving digital transformation. I lead cross-functional engineering teams and design high-performance, resilient software architectures that eliminate operational friction, optimize business infrastructure, and scale fluidly.
-
----
-
-## 🛠️ Tech Stack & Digital Ecosystem
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Languages & Core Frameworks</h4>
-      <ul>
-        <li><strong>Languages:</strong> PHP, JavaScript, TypeScript</li>
-        <li><strong>Frontend:</strong> ReactJS, Next.js, HTML5, CSS3</li>
-        <li><strong>Backend & Frameworks:</strong> Laravel, Node.js, RESTful APIs & Microservices</li>
-        <li><strong>Database Layer:</strong> MySQL, Supabase (PostgreSQL)</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Automation & Infrastructure</h4>
-      <ul>
-        <li><strong>Automation:</strong> n8n Workflow Automation & SEO Automations</li>
-        <li><strong>Hosting & Cloud:</strong> Vercel, Cloudways, Managed Server Platforms</li>
-        <li><strong>Infrastructure:</strong> Ubuntu Linux, Cloudflare, Docker</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
-</p>
-
-## 🚀 Architectural & Engineering Principles
-
-*   **Robust Framework Implementations:** Building clean, highly maintainable all-in-one applications using **Laravel** for reliable backend management, and pairing them with **ReactJS / Next.js** to deliver fast, SEO-optimized, production-ready user interfaces.
-*   **Real-Time Channel Synchronization:** Specializing in automated inventory sync solutions that perfectly bridge physical retail brick-and-mortar stores with online storefronts (Shopify, WordPress), eliminating manual updates.
-*   **Modern & Lightweight Setups:** Hosting resilient platforms using performance-optimized layers like **Vercel** and **Cloudways**, supported by cloud data solutions to ensure maximum uptime.
+I am a technology strategist, enterprise systems architect, and solutions-oriented technologist focused on driving digital transformation. Leveraging a strong foundation in computer science and programming, I specialize in orchestrating AI integrations and automation workflows to eliminate operational friction, optimize business infrastructure, and scale fluidly.
 
 ---
 
 ## 💼 Professional Ventures & Leadership
 
 #### ⚡ Founder & CTO at **[IKIZEN](https://www.ikizen.io)**
-*   **Digital Transformation:** Leading full-scale initiatives converting fragmented manual operational workflows into automated digital architectures.
-*   **E-Commerce & Branding:** Building robust, high-conversion online storefronts for businesses and implementing content-driven social media management to establish market authority.
-*   **Dual-Engine Growth Optimization:** Designing modern discoverability strategies that balance traditional **SEO** (boosting search rankings on Google/Bing) with **GEO** (Generative Engine Optimization) to ensure business assets are accurately synthesized inside AI-driven LLM responses.
+*   **Digital Transformation:** Leading initiatives that convert fragmented operational workflows into automated digital architectures.
+*   **E-Commerce & Digital Presence:** Building robust online storefronts and implementing content-driven management strategies.
+*   **Modern Discoverability:** Designing dual-engine strategies that balance search engine visibility (SEO) with Generative Engine Optimization (GEO) for AI-driven platforms.
 
 #### 🚲 Director at **[CYKEL](https://www.cykel.lk)**
 *   Overseeing general technical operations, digital platforms, and strategic development.
 
-#### 🛡️ Senior IT Executive at **[TecRoot](https://www.tecroot.lk)**
-*   Managing internal IT systems, engineering enterprise solutions, and updating core web infrastructure.
+#### 🛡️ IT Executive at **[TecRoot](https://www.tecroot.lk)**
+*   Managing internal IT infrastructure, business systems integration, and digital platform initiatives.
 
 ---
 
 ## 🔬 Learning & Exploration Backlog
 
-*   **Advanced AI Workflows:** Deepening mastery of **n8n** enterprise integrations and currently exploring autonomous **AI Agent automation methods** (including the implementation of Hermes agent pipelines).
+*   **Advanced AI Workflows:** Deepening mastery of **n8n** enterprise integrations and currently exploring autonomous **AI Agent automation pipelines**.
 
 ---
 
 ## 🛠️ Active Development Spotlight
 
 #### 💼 IKIZEN Client Portal
-*   **The Mission:** Designing and engineering a unified dashboard for clients to streamline project onboarding, track deliverables, view system analytics, and manage support channels seamlessly.
-*   **Core Architecture:** Implemented via a high-performance Next.js frontend integrated with an automated backend service layer to automate operational workflows.
+*   **The Mission:** Designing a unified portal for clients to streamline onboarding, track project milestones, view analytics, and coordinate support channels.
+*   **Core Focus:** Automating operational client workflows into a single dashboard.
 
 #### ⚙️ RMS — Repair Management System *(via TecRoot)*
-*   **The Mission:** Building an advanced internal tracking platform engineered to optimize commercial service lifecycles, log diagnostic assets, and eliminate manual organization gaps.
-*   **Core Architecture:** Structured to completely automate status progression timelines and scale operational visibility.
+*   **The Mission:** Building an internal operations platform to track service lifecycles, manage diagnostic records, and eliminate operational bottlenecks.
+*   **Core Focus:** Automating status progression timelines and centralizing service visibility.
+
+#### 📊 Enterprise ERP & Commercial POS Platform
+*   **The Mission:** Engineering an all-in-one operational commerce ecosystem designed to eliminate friction across sales, procurement, inventory tracking, and expense management.
+*   **Core Architecture:** Features multi-branch governance, role-based staff provisioning, integrated barcode generation, dynamic invoice configuration, real-time Shopify channel synchronization, and automated CRM notification flows.
+*   **Business Impact:** Centralizes end-to-end commercial operations into unified business intelligence dashboards, delivering filtered financial analytics, automated reporting, and simplified reconciliations.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sxjxd&theme=tokyonight&hide_border=true&sideNums=BB9AF7" alt="Contribution Streak" width="100%" />
